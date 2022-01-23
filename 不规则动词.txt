@@ -1,0 +1,7 @@
+shake
+    shook
+    shaken
+
+throw
+    threw
+    thrown
